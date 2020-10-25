@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pitbull Puppies
-date: 2020-10-25T19:03:26.135Z
+date: 2020-10-25T19:19:33.110Z
 description: Get the detailed knowledge on Pitbull Puppies. The ultimate Pitbull
   puppies guide.
 featuredpost: true
